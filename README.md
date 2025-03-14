@@ -1,4 +1,4 @@
-# TechManage - API de Gerenciamento de Usuários
+# UserManagement - API de Gerenciamento de Usuários
 
 ## Contexto
 
@@ -136,7 +136,7 @@ A API oferece os seguintes endpoints:
 ## Como Rodar o Projeto Localmente
 ## Contato
 
-Dúvidas ou sugestões? Entre em contato via [seu email ou LinkedIn].
+Dúvidas ou sugestões? Entre em contato via github
 
 
 1. Clone o repositório:
@@ -208,10 +208,3 @@ Dúvidas ou sugestões? Entre em contato via [seu email ou LinkedIn].
 **Repositório:** [GitHub - TechManage](https://github.com/italoaraujosantos/usermanagement)
 
 
-## Contato
-
-Dúvidas ou sugestões? Entre em contato via [seu email ou LinkedIn].
-
-## Contato
-
-Dúvidas ou sugestões? Entre em contato via [seu email ou LinkedIn].
