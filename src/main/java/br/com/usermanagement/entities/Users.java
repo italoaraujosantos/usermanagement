@@ -1,5 +1,6 @@
 package br.com.usermanagement.entities;
 
+import java.time.LocalDate;
 import java.util.Date;
 import java.util.Objects;
 
@@ -39,15 +40,20 @@ public class Users {
 		VIEWER
 	}
 	
-	public Users() {}
+	
+	
+	public Users() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
-	public Users(Long id, String fullName, String email, String phone, Date birthDate, String userType) {
+	public Users(Long id, String fullName, String email, String phone, Date localDate, String userType) {
 		super();
 		this.id = id;
 		this.fullName = fullName;
 		this.email = email;
 		this.phone = phone;
-		this.birthDate = birthDate;
+		this.birthDate = localDate;
 		this.userType = userType;
 	}
 
