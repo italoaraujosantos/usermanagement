@@ -11,7 +11,6 @@ TechManage é uma API RESTful desenvolvida em Spring Boot para gerenciar usuári
 - **Spring Data JPA**
 - **Hibernate**
 - **Banco de dados relacional (MySQL, PostgreSQL ou H2)**
-- **Lombok**
 - **Bean Validation**
 - **JUnit e Mockito (para testes)**
 - **Swagger/OpenAPI (para documentação da API)**
