@@ -205,6 +205,6 @@ Fique à vontade para abrir issues e pull requests no repositório!
 Dúvidas ou sugestões? Entre em contato via [seu email ou LinkedIn].
 
 **Autor:** Ítalo Araujo  
-**Repositório:** [GitHub - TechManage](https://github.com/italoaraujosantos/usermanagement)
+**Repositório:** [GitHub - UserManagement](https://github.com/italoaraujosantos/usermanagement)
 
 
